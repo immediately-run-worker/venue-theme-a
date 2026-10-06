@@ -1,3 +1,12 @@
---bg: #10161c;
-  --panel: #1a222b;
-  --ink: #dde7ef;
+--bg-0: #10161c;
+--bg-1: #1a222b;
+--bg-2: #1a222b;
+--bg-3: #1a222b;
+--text-1: #dde7ef;
+--text-2: #dde7ef;
+--text-3: #dde7ef;
+--text-4: #dde7ef;
+--accent: #6b9bc4;
+--accent-text: #10161c;
+--app-bg: #10161c;
+--app-fg: #dde7ef;
